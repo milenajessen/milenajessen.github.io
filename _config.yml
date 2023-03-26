@@ -21,10 +21,9 @@ title: Milena Jessen
 
 navbar-links:
 #  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+   Research: "research"
+   Teaching: "teaching"
+   CV: "cv"
 
 ################
 # --- Logo --- #
