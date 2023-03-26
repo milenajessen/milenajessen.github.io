@@ -1,4 +1,4 @@
-#picture(min-width:768px)  {
+#picture(max-width:768px)  {
 float: none;    
  margin: 0px 20px 0px 20px;
 }
