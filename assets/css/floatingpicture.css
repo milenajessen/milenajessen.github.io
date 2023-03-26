@@ -1,3 +1,8 @@
+#picture (max-width: 768px)  {
+float: none;    
+margin: 0px 20px 0px 20px;
+}
+
 #picture (min-width: 769px)  {
 float: right;    
 margin: 0px 0px 0px 20px;
