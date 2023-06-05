@@ -283,9 +283,9 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - cv
-  - research
-  - teaching
+  - cv/
+  - research/
+  - teaching/
 
 plugins:
   - jekyll-paginate
