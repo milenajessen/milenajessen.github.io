@@ -283,10 +283,6 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - cv/
-  - tags/
-  - research/
-  - teaching/
 
 plugins:
   - jekyll-paginate
