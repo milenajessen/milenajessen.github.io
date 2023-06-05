@@ -4,3 +4,9 @@
     margin: 0px 30px 30px 30px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  #picture {
+    margin: 30px 30px 30px 30px;
+  }
+}
