@@ -119,9 +119,8 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "milena jessen, economics, econ, research, bonn"
-share-title: "Milena Jessen"
-share-description: "Hi! I am a PhD student at the Bonn Graduate School of Economics."
+keywords: ["milena jessen", "economics", "econ", "research", "bonn"]
+description: "Hi! I am a PhD student at the Bonn Graduate School of Economics."
 
 ######################################
 # --- Colours / background image --- #
