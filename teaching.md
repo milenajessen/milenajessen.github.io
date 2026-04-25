@@ -1,10 +1,7 @@
 ---
 layout: home
-title: Teaching
 permalink: /teaching/
 ---
-
-## Teaching
 
 ### Teaching Experience
 
