@@ -24,7 +24,7 @@ baseurl: ""                     # leave empty for main site, or "/projectname" i
 ###############################################
 
 navbar-links:
-   #Research: "research"
+   Research: "research"
    Teaching: "teaching"
    CV: "assets/CV_Jessen_May2026.pdf"
 
